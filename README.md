@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Esse Jacques (@ejdev01)  
+# 👋 Hi there! I'm Koffi Edoh (@ejdev01)  
 
 I'm a **results-driven Software Engineer** with over 4 years of experience in **frontend**, **backend**, and **mobile development**, as well as expertise in **DevOps practices** and **cloud solutions**. I specialize in building scalable, secure, and efficient software solutions that solve complex business problems.  
 
